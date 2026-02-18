@@ -3,7 +3,7 @@
 CRM-Based Work Health Registration System
 Using PHP, JavaScript, and MySQL
 
-2️⃣ Introduction
+## Introduction
 
 Organizations need an efficient way to:
 
@@ -16,7 +16,7 @@ Manual systems are slow, insecure, and error-prone.
 
 👉 A web-based CRM system solves these issues.
 
-3️⃣ What is CRM?
+## What is CRM?
 
 CRM (Customer Relationship Management) is a system used to manage:
 
@@ -32,7 +32,7 @@ In this project, CRM is adapted for:
     ✔ Medical record tracking
     ✔ Workplace health management
 
-4️⃣ Project Objective
+## Project Objective
 
 Develop a web-based CRM system that:
 
@@ -42,7 +42,7 @@ Develop a web-based CRM system that:
    * Provides searchable database
    * Generates reports
 
-5️⃣ System Features
+## System Features
 👤 User Management
 
    * Admin login system
